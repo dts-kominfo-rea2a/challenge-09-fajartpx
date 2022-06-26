@@ -1,0 +1,18 @@
+.contact {
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+    background-color: #f6f1ee ;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.contact img {
+    width: 200px;
+    height: auto;
+    display:flex;
+    flex-basis: 25%;
+}

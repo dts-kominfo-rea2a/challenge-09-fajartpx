@@ -1,4 +1,12 @@
 .App {
+  background-color: #e6ceff ;
   text-align: center;
-  display: flex;
+}
+
+.App img {
+  border-radius: 100px;
+}
+
+.App p:first-child{
+  font-weight: bold;
 }
